@@ -14,6 +14,7 @@ namespace helloWorld
             int number = 1;
             WriteLine("Hello world!");
             WriteLine("Greetings and salutations!");
+            WriteLine("This is great!");
 
             //Here's a test comment
             
