@@ -11,10 +11,12 @@ namespace helloWorld
     {
         static void Main(string[] args)
         {
+            int number = 1;
             WriteLine("Hello world!");
             WriteLine("Greetings and salutations!");
 
             //Here's a test comment
+            
         }
     }
 }
