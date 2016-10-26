@@ -13,6 +13,7 @@ namespace helloWorld
         {
             WriteLine("Hello world!");
             WriteLine("Greetings and salutations!");
+            WriteLine("This is great!");
 
             //Here's a test comment
         }
