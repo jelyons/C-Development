@@ -12,6 +12,9 @@ namespace helloWorld
         static void Main(string[] args)
         {
             WriteLine("Hello world!");
+            WriteLine("Greetings and salutations!");
+
+            //Here's a test comment
         }
     }
 }
